@@ -34,6 +34,6 @@ gcc src/main.c -o xadrez
 
 ## 🧪 Exemplo de uso
 Ao rodar o programa, o usuário informa a posição da peça (linha e coluna de 0 a 7) e escolhe uma das peças. O programa exibe no terminal os movimentos válidos usando a lógica definida para cada uma.
-
+```
 ## Autor
 Felipe Dutra Musskopf
